@@ -44,3 +44,13 @@
 .highlight {
   background: yellow;
 }
+
+.checkmark {
+  color: #1DA237;
+}
+
+.x {
+  color: #CD2626;
+  font-weight: 700;
+  font-size: 25px;
+}
